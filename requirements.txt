@@ -1,3 +1,31 @@
+## Primary Libraries
+dedupe==0.8.0.1.7
+Distance==0.1.3
+fuzzywuzzy==0.5.0
 nltk==3.0.3
+pybloom==1.1
 scikit-learn==0.16.1
+
+## Library Dependencies
+affinegap==1.1
+bitarray==0.8.1
+BTrees==4.0.8
+canonicalize==1.3
+categorical-distance==1.5
+dedupe-hcluster==0.3.2
+fastcluster==1.1.17
+future==0.14.3
+haversine==0.4.2
+Metafone==0.5
+numpy==1.9.2
+persistent==4.1.1
+PyLBFGS==0.1.9
+rlr==1.5
+simplecosine==1.0
+simplejson==3.7.3
+six==1.9.0
+zope.index==4.1.0
+zope.interface==4.1.2
+
+## Virtual Env
 wheel==0.24.0
