@@ -60,3 +60,5 @@ target/
 # Fixtures
 fixtures/*
 !fixtures/*.zip
+
+.ipynb_checkpoints/
